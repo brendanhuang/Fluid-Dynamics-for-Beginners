@@ -1,5 +1,5 @@
 # Fluid-Dynamics-for-Beginners
-Two short introductory tutorials on mathematical notation (tensor calculus) and basic fluid dynamics for researchers interested in microfluidics.
+Two short introductory tutorials on mathematical notation (tensor calculus) and basic fluid dynamics for researchers interested in microfluidics. This is also accompanied by a short illustrative Matlab tutorial.
 
 These two tutorial documents, which are appendices in my PhD Thesis from Yale University, give a short introduction to two topics:
 
