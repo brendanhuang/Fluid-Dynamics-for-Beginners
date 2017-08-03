@@ -1,6 +1,9 @@
 # Fluid-Dynamics-for-Beginners
 Two short introductory tutorials on mathematical notation (tensor calculus) and basic fluid dynamics for researchers interested in microfluidics. This is also accompanied by a short illustrative Matlab tutorial.
 
+<img src="fluidtutorial_fig.png" width = "40%" align="left">
+
+
 # Installation
 1. Download all files.
 2. Open the fluiddynamicstutorial.m file in Matlab.
